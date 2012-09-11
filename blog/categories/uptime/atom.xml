@@ -4,7 +4,7 @@
   <title><![CDATA[Category: uptime | Lateral Diffusion]]></title>
   <link href="http://chemcoder.github.com/blog/categories/uptime/atom.xml" rel="self"/>
   <link href="http://chemcoder.github.com/"/>
-  <updated>2012-09-11T17:52:33+05:30</updated>
+  <updated>2012-09-11T18:10:25+05:30</updated>
   <id>http://chemcoder.github.com/</id>
   <author>
     <name><![CDATA[Vijayendra S.]]></name>
@@ -14,31 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The problem with Pingdom]]></title>
-    <link href="http://chemcoder.github.com/blog/2012/07/22/the-problem-with-pingdom/"/>
+    <title type="html"><![CDATA[The Test Page]]></title>
+    <link href="http://chemcoder.github.com/blog/2012/07/22/the-test-page/"/>
     <updated>2012-07-22T19:13:00+05:30</updated>
-    <id>http://chemcoder.github.com/blog/2012/07/22/the-problem-with-pingdom</id>
-    <content type="html"><![CDATA[<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Time to be Awesome - awesome.rb </span></figcaption>
+    <id>http://chemcoder.github.com/blog/2012/07/22/the-test-page</id>
+    <content type="html"><![CDATA[<p><img src="http://placekitten.com/890/280"></p>
+
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>Time to be Awesome - awesome.rb </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='rb'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Awesome!&quot;</span> <span class="k">unless</span> <span class="n">lame</span>
+</pre></td><td class='code'><pre><code class='rb'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Because i love cats !!&quot;</span> <span class="k">unless</span> <span class="n">lame</span>
 </span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
-<p><a href="http://www.pingdom.com%20Pingdom">The problem with pingdom.</a></p>
+<p><a href="http://auraaerosols.in">My current Marketing gig --Aura Aerosols.</a></p>
 
-<p>My money's in that office, right? If she start giving me some bullshit about it ain't there, and we got to go someplace else and get it, I'm gonna shoot you in the head then and there. Then I'm gonna shoot that bitch in the kneecaps, find out where my goddamn money is. She gonna tell me too. Hey, look at me when I'm talking to you, motherfucker. You listen: we go in there, and that nigga Winston or anybody else is in there, you the first motherfucker to get shot. You understand?</p>
+<p>This is a pretty much a test post . I am kind of new to Jekyll and Octopress . But i must say i am impressed with the speed and ease of development.</p>
 
 <blockquote><p>Blockquote is what goes
 inside this block here
 would you believe that
-bullshit?</p></blockquote>
+It is so easy !!</p></blockquote>
 
-<p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing.</p>
+<p>The only thing that worries me right now is how to manage the posts this one is just a sample one and needs to be made better to check various other permutations i can do with this.</p>
 
-<p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>
+<p>The other awesome thing that i can do is will be using the html tag for putting in the video tag this is shown by this video</p>
 
-<p>Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.</p>
-
-<p>Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb.</p>
+<p><video width='320' height='200' preload='none' controls poster=''><source src='http://www.youtube.com/watch?v=SrJbfd3YMFg' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video></p>
 ]]></content>
   </entry>
   
