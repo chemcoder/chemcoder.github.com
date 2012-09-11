@@ -7,7 +7,7 @@ external-url: http://google.com
 categories: uptime
 ---
 
-{% img http://placekitten.com/890/280 320 140%}
+{% img http://placekitten.com/890/280 800 260%}
 
 
 {% codeblock Time to be Awesome - awesome.rb %}
